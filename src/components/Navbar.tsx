@@ -9,7 +9,7 @@ export function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white">
           <Link href='/' legacyBehavior>
-            <a className="text-xl font-bold">Marketplace</a>
+            <a className="text-xl font-bold">Ethpreneur</a>
           </Link>
         </div>
         <div className="flex space-x-4">

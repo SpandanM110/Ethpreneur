@@ -14,7 +14,7 @@ export default function NFTGrid({
   isLoading,
   data,
   overrideOnclickBehavior,
-  emptyText = "No NFTs found",
+  emptyText = "No Comapnies found",
 }: Props) {
   return (
     <div>

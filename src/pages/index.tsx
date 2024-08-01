@@ -8,8 +8,8 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Welcome to the NFT Marketplace</h1>
-      <p>Browse and trade NFTs easily.</p>
+      <h1>Welcome to the Company IPO space</h1>
+      <p>Browse and trade companies easily.</p>
       <NFTGrid
         isLoading={isLoading}
         data={data}
