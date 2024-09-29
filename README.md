@@ -151,8 +151,6 @@ Feel free to add your name to this file when you make your first contribution!
 ```
 
 
-```markdown
-View the [list of contributors](https://github.com/your-username/ethpreneur/graphs/contributors) who have helped build this project!
-```
+
 
 ---
