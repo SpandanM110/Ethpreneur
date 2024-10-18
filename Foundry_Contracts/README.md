@@ -15,6 +15,11 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Download openzeppelin/contracts
+```shell
+$ forge install @openzeppelin/contracts
+```
+
 ### Build
 
 ```shell
@@ -47,8 +52,8 @@ $ anvil
 
 ### Deploy
 
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
+```bash
+forge script script/DeployEthpreneur.s.sol --fork-url http://localhost:8545 --private-key <PRIVATE_KEY> --broadcast
 ```
 
 ### Cast
